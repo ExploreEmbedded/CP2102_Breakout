@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="31mm"
+   height="21mm"
+   viewBox="0 0 109.84252 74.409449"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="CP2102_breakour_Schematic.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       osb:paint="gradient"
+       id="linearGradient62215">
+      <stop
+         id="stop62217"
+         offset="0"
+         style="stop-color:#0a0707;stop-opacity:1;" />
+      <stop
+         id="stop62219"
+         offset="1"
+         style="stop-color:#0a0707;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient52236">
+      <stop
+         id="stop52238"
+         offset="0"
+         style="stop-color:#c62717;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient4170">
+      <stop
+         id="stop4172"
+         offset="0"
+         style="stop-color:#e62c2e;stop-opacity:1;" />
+    </linearGradient>
+    <clipPath
+       id="id0">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 4.16933,0.999201 0.294039,0 0,-0.321488 -0.294039,0 0,0.321488 z"
+         id="path64797" />
+    </clipPath>
+    <clipPath
+       id="id1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 4.16248,1.58825 0.294039,0 0,-0.321488 -0.294039,0 0,0.321488 z"
+         id="path64800" />
+    </clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 27.000002 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="143.99999 : 27.000002 : 1"
+       inkscape:persp3d-origin="71.999998 : 18.000001 : 1"
+       id="perspective751" />
+    <linearGradient
+       gradientTransform="matrix(1,0,0,-1,273,-448.8574)"
+       id="SVGID_1_-8"
+       y1="-465.3486"
+       x1="-267.87961"
+       y2="-465.3486"
+       x2="-253.5798"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         style="stop-color:#333333;stop-opacity:1"
+         id="stop10215-9" />
+      <stop
+         offset="1"
+         style="stop-color:#3c3c3c;stop-opacity:1"
+         id="stop10217-7" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="52.856027"
+     inkscape:cy="29.477095"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-977.95276)">
+    <g
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g3342"
+       transform="matrix(0.00899999,0,0,0.00899999,65.870671,227.83632)" />
+    <g
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:59.05509949;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g25352"
+       transform="matrix(0.00899999,0,0,0.00899999,65.870671,227.83632)" />
+    <g
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g3342-3"
+       transform="matrix(0.00899999,0,0,0.00899999,71.591297,-500.98524)" />
+    <g
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g7532"
+       transform="matrix(0.00899999,0,0,0.00899999,3.94081,-212.85898)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot53608"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:100%;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(140.21497,-437.72284)"><flowRegion
+         id="flowRegion53610"><rect
+           id="rect53612"
+           width="60"
+           height="5"
+           x="216.42857"
+           y="230.57649"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended'" /></flowRegion><flowPara
+         id="flowPara53614" /></flowRoot>    <g
+       style="fill:#e62c2e;fill-opacity:0.90196078;stroke:#000000;stroke-width:1.00960946;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g5634"
+       transform="matrix(0.0090017,0,0,0.00882781,394.4367,-586.09203)" />
+    <g
+       style="fill:#e62c2e;fill-opacity:0.90196078;stroke:#000000;stroke-width:59.62258148;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g27644"
+       transform="matrix(0.0090017,0,0,0.00882781,394.4367,-586.09203)" />
+    <g
+       style="stroke-width:0"
+       id="g51469"
+       transform="matrix(1.25,0,0,1.25,516.68363,-396.97093)">
+      <title
+         id="title51471">text:3.3V</title>
+    </g>
+    <g
+       style="stroke-width:0"
+       id="g51647"
+       transform="matrix(1.25,0,0,1.25,577.04077,-445.18522)">
+      <title
+         id="title51649">element:U$1</title>
+      <g
+         style="stroke-width:0"
+         id="g51651">
+        <title
+           id="title51653">package:FIDUCIAL-1X2</title>
+      </g>
+    </g>
+    <g
+       style="stroke-width:0"
+       id="g51655"
+       transform="matrix(1.25,0,0,1.25,577.04077,-445.18522)">
+      <title
+         id="title51657">element:U$2</title>
+      <g
+         style="stroke-width:0"
+         id="g51659">
+        <title
+           id="title51661">package:SFE-NEW-WEBLOGO</title>
+      </g>
+    </g>
+    <g
+       style="stroke-width:0"
+       id="g51663"
+       transform="matrix(1.25,0,0,1.25,577.04077,-445.18522)">
+      <title
+         id="title51665">element:U$3</title>
+      <g
+         style="stroke-width:0"
+         id="g51667">
+        <title
+           id="title51669">package:FIDUCIAL-1X2</title>
+      </g>
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66654"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66656" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66658"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66660" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66662"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66664" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66666"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66668" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66670"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66672" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66674"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66676" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66678"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66680" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66682"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66684" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66686"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66688" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66690"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66692" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66694"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66696" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66698"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66700" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66702"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66704" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66706"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66708" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66710"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66712" />
+    </g>
+    <g
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       id="g66714"
+       transform="matrix(90,0,0,90,296.73973,98.55434)">
+      <g
+         id="g66716" />
+    </g>
+    <g
+       transform="translate(329.86404,-758.95254)"
+       id="g80231-2-6-4" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot70584"
+       style="font-style:normal;font-weight:normal;font-size:5px;line-height:100%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(140.21497,-437.72284)"><flowRegion
+         id="flowRegion70586"><rect
+           id="rect70588"
+           width="14.89975"
+           height="6.5659914"
+           x="312.76849"
+           y="161.40765" /></flowRegion><flowPara
+         id="flowPara70590" /></flowRoot>    <g
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="g40579"
+       transform="matrix(0.00899999,0,0,0.00899999,85.204159,-87.67572)" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.125;stroke-linecap:round"
+       class="interior rect"
+       x="28.920761"
+       y="994.48792"
+       width="41.536018"
+       height="41.11998"
+       id="rect89075" />
+    <text
+       style="font-size:3.16106462px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       class="text"
+       font-size="1.23472"
+       x="74.297615"
+       y="959.01294"
+       id="text89080"
+       transform="scale(0.92908101,1.0763324)">DTR</text>
+    <text
+       style="font-size:3.16106462px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       class="text"
+       font-size="1.23472"
+       x="74.093758"
+       y="954.0188"
+       id="text89086"
+       transform="scale(0.92908101,1.0763324)">RTS</text>
+    <text
+       style="font-size:3.16106462px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+       class="text"
+       font-size="1.23472"
+       x="72.426239"
+       y="948.37616"
+       id="text89092"
+       transform="scale(0.92908101,1.0763324)">Rx</text>
+    <line
+       style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round"
+       class="pin"
+       x1="70.933235"
+       y1="999.10779"
+       x2="83.016441"
+       y2="999.10779"
+       id="connector0pin" />
+    <text
+       style="font-size:3.16106462px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       class="text"
+       font-size="1.23472"
+       x="67.530067"
+       y="933.62439"
+       id="text89098"
+       transform="scale(0.92908101,1.0763324)">CTS</text>
+    <text
+       style="font-size:3.16106462px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+       class="text"
+       font-size="1.23472"
+       x="68.430534"
+       y="942.63934"
+       id="text89104"
+       transform="scale(0.92908101,1.0763324)">Tx</text>
+    <g
+       transform="matrix(0,2.3785838,-2.7555691,0,61.609954,1000.4497)"
+       id="g89114">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g89116">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:start;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0"
+           id="text89118">GND</text>
+      </g>
+    </g>
+    <g
+       transform="matrix(0,2.3785838,-2.7555691,0,69.335949,1009.1636)"
+       id="g89128">
+      <g
+         transform="matrix(0,-1,1,0,0,0)"
+         id="g89130">
+        <text
+           style="font-size:1.23471999px;font-family:'Droid Sans';text-anchor:end;fill:#8c8c8c;stroke:none;stroke-width:0"
+           class="text"
+           font-size="1.23472"
+           x="0"
+           y="0.22522405"
+           id="text89132">VCC</text>
+      </g>
+    </g>
+    <text
+       style="font-size:3.83845377px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"
+       class="text"
+       id="label"
+       font-size="1.49931"
+       x="53.888187"
+       y="937.32648"
+       transform="scale(0.92908099,1.0763324)">CP2012</text>
+    <text
+       style="font-size:3.83845377px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"
+       class="text"
+       id="text89136"
+       font-size="1.49931"
+       x="53.888187"
+       y="941.4209"
+       transform="scale(0.92908099,1.0763324)">USB</text>
+    <text
+       style="font-size:3.83845377px;font-family:'Droid Sans';text-anchor:middle;fill:#000000;stroke:none;stroke-width:0"
+       class="text"
+       id="text89138"
+       font-size="1.49931"
+       x="53.888187"
+       y="945.51532"
+       transform="scale(0.92908099,1.0763324)">to Serial</text>
+    <line
+       style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round"
+       class="pin"
+       x1="70.878036"
+       y1="1003.7462"
+       x2="82.961243"
+       y2="1003.7462"
+       id="connector0pin-8" />
+    <line
+       style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round"
+       class="pin"
+       x1="70.950958"
+       y1="1008.601"
+       x2="83.034164"
+       y2="1008.601"
+       id="connector0pin-8-5" />
+    <line
+       style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round"
+       class="pin"
+       x1="70.856255"
+       y1="1013.5976"
+       x2="82.939461"
+       y2="1013.5976"
+       id="connector0pin-8-4" />
+    <line
+       style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round"
+       class="pin"
+       x1="70.793129"
+       y1="1019.5954"
+       x2="82.876335"
+       y2="1019.5954"
+       id="connector0pin-8-3" />
+    <line
+       style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round"
+       class="pin"
+       x1="70.729996"
+       y1="1025.4669"
+       x2="82.813202"
+       y2="1025.4669"
+       id="connector0pin-8-37" />
+    <line
+       style="fill:none;stroke:#787878;stroke-width:0.87499839;stroke-linecap:round"
+       class="pin"
+       x1="70.856255"
+       y1="1031.1489"
+       x2="82.939461"
+       y2="1031.1489"
+       id="connector0pin-8-41" />
+  </g>
+</svg>
